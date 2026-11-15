@@ -1,7 +1,7 @@
 {
   "brand": "Mastro do Salto",
   "heroImage": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/ca64bf77-7fb6-49ff-936d-d7e04e9a2736.jpeg?im_w=1200",
-  "wifiName": "",
+  "wifiName": "Teste123",
   "wifiPassword": "",
   "checkin": "A confirmar com a anfitriã",
   "checkout": "A confirmar com a anfitriã",
@@ -22,10 +22,10 @@
       "experiencesBody": "Do barco para a Ilha de Tavira às salinas e às caminhadas junto à Ria Formosa, há muitas formas de viver o sotavento algarvio.",
       "rulesBody": "Cuide da casa e respeite a tranquilidade do bairro histórico. Antes de sair, desligue o ar condicionado e os equipamentos, feche as janelas e deixe os espaços arrumados. Para regras específicas, consulte a sua reserva na Airbnb.",
       "food": "Sabores do Algarve",
-      "equicampoOffer": "Aproveite 15% de desconto em todas as atividades da Mastro do Salto durante a sua estadia na Mastro do Salto.",
-      "directionsBody": "A casa situa-se no centro histórico de Tavira, num bairro tranquilo. Utilize o mapa para localizar a zona; confirme a morada exata e as instruções de acesso com a anfitriã antes da chegada.",
+      "equicampoOffer": "",
+      "directionsBody": "A casa situa-se no centro histórico de Tavira, num bairro tranquilo. Utilize o mapa para localizar a zona.",
       "directionsButton": "Ver localização no mapa",
-      "hostsBody": "O Mastro do Salto é apresentado pela Ana: uma casa renovada com atenção ao conforto, aos materiais duradouros e à sustentabilidade. A eletricidade e a água contam com o apoio de painéis solares.",
+      "hostsBody": "O Mastro do Salto é apresentado pela Ana.",
       "foodBody": "Entre peixe fresco, polvo, cataplanas e doces regionais, descubra algumas sugestões de restaurantes em Tavira. Confirme os horários e reserve diretamente com cada estabelecimento.",
       "stayIntro": "Uma casa luminosa com três quartos, duas casas de banho, cozinha equipada, pátio com duche exterior e terraço no último piso. Consulte as informações práticas abaixo.",
       "contactHeading": "Contactar a anfitriã",
@@ -830,7 +830,7 @@
     {
       "id": "parking",
       "icon": "car",
-      "visible": true,
+      "visible": false,
       "translations": {
         "pt": {
           "title": "Estacionamento",
