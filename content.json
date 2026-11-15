@@ -402,7 +402,7 @@
   "restaurants": [
     {
       "id": "tavira-restaurant-1",
-      "image": "",
+      "image": "assets/restaurants-tavira-restaurant-1-1794771878515.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Zeca+da+Bica+R.+Alm.+C%C3%A2ndido+dos+Reis+22%2C+8800-318+Tavira",
       "booking": "",
       "equicampo": false,
@@ -434,7 +434,7 @@
     },
     {
       "id": "tavira-restaurant-2",
-      "image": "",
+      "image": "assets/restaurants-tavira-restaurant-2-1794771880682.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Ponto+de+Encontro+Pra%C3%A7a+Dr.+Ant%C3%B3nio+Padinha+39%2C+8800-637+Tavira",
       "booking": "",
       "equicampo": false,
@@ -465,40 +465,8 @@
       "phone": "+351281323730"
     },
     {
-      "id": "tavira-restaurant-3",
-      "image": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=O+Coreto+R.+Jos%C3%A9+Pires+Padinha+2%2C+8800-354+Tavira",
-      "booking": "",
-      "equicampo": false,
-      "translations": {
-        "pt": {
-          "name": "O Coreto",
-          "description": "Clássicos regionais e ambiente descontraído perto do Jardim do Coreto."
-        },
-        "en": {
-          "name": "O Coreto",
-          "description": "Local restaurant in Tavira. Check its current menu and opening hours."
-        },
-        "es": {
-          "name": "O Coreto",
-          "description": "Restaurante en Tavira. Consulta el menú y horarios."
-        },
-        "fr": {
-          "name": "O Coreto",
-          "description": "Restaurant à Tavira. Vérifiez le menu et les horaires."
-        },
-        "de": {
-          "name": "O Coreto",
-          "description": "Restaurant in Tavira. Bitte Speisekarte und Öffnungszeiten prüfen."
-        }
-      },
-      "locality": "Tavira · Algarve",
-      "address": "R. José Pires Padinha 2, 8800-354 Tavira",
-      "phone": "+351281326244"
-    },
-    {
       "id": "tavira-restaurant-4",
-      "image": "",
+      "image": "assets/restaurants-tavira-restaurant-4-1794771882931.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Come+na+Gaveta+Av.+Dr.+Mateus+Teixeira+de+Azevedo+36%2C+8800-379+Tavira",
       "booking": "",
       "equicampo": false,
@@ -527,70 +495,6 @@
       "locality": "Tavira · Algarve",
       "address": "Av. Dr. Mateus Teixeira de Azevedo 36, 8800-379 Tavira",
       "phone": "+351926677879"
-    },
-    {
-      "id": "tavira-restaurant-5",
-      "image": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+Avenida+Tv.+Zacarias+Guerreiro%2C+8800-740+Tavira",
-      "booking": "",
-      "equicampo": false,
-      "translations": {
-        "pt": {
-          "name": "Restaurante Avenida",
-          "description": "Cozinha tradicional, com destaque para pratos de peixe e arroz de marisco."
-        },
-        "en": {
-          "name": "Restaurante Avenida",
-          "description": "Local restaurant in Tavira. Check its current menu and opening hours."
-        },
-        "es": {
-          "name": "Restaurante Avenida",
-          "description": "Restaurante en Tavira. Consulta el menú y horarios."
-        },
-        "fr": {
-          "name": "Restaurante Avenida",
-          "description": "Restaurant à Tavira. Vérifiez le menu et les horaires."
-        },
-        "de": {
-          "name": "Restaurante Avenida",
-          "description": "Restaurant in Tavira. Bitte Speisekarte und Öffnungszeiten prüfen."
-        }
-      },
-      "locality": "Tavira · Algarve",
-      "address": "Tv. Zacarias Guerreiro, 8800-740 Tavira",
-      "phone": "+351961483281"
-    },
-    {
-      "id": "tavira-restaurant-6",
-      "image": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Tasquinha+da+Paula+Largo+dos+M%C3%A1rtires+da+Rep%C3%BAblica+3A%2C+8800-686+Tavira",
-      "booking": "",
-      "equicampo": false,
-      "translations": {
-        "pt": {
-          "name": "Tasquinha da Paula",
-          "description": "Pequena tasca familiar, ideal para descobrir sabores caseiros."
-        },
-        "en": {
-          "name": "Tasquinha da Paula",
-          "description": "Local restaurant in Tavira. Check its current menu and opening hours."
-        },
-        "es": {
-          "name": "Tasquinha da Paula",
-          "description": "Restaurante en Tavira. Consulta el menú y horarios."
-        },
-        "fr": {
-          "name": "Tasquinha da Paula",
-          "description": "Restaurant à Tavira. Vérifiez le menu et les horaires."
-        },
-        "de": {
-          "name": "Tasquinha da Paula",
-          "description": "Restaurant in Tavira. Bitte Speisekarte und Öffnungszeiten prüfen."
-        }
-      },
-      "locality": "Tavira · Algarve",
-      "address": "Largo dos Mártires da República 3A, 8800-686 Tavira",
-      "phone": "+351281109152"
     }
   ],
   "activities": [
