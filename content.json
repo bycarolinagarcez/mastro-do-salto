@@ -157,7 +157,7 @@
   "places": [
     {
       "id": "tavira-1",
-      "image": "",
+      "image": "assets/places-tavira-1-1794770271312.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Castelo+de+Tavira%2C+Tavira",
       "translations": {
         "pt": {
@@ -184,7 +184,7 @@
     },
     {
       "id": "tavira-2",
-      "image": "",
+      "image": "assets/places-tavira-2-1794770273514.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a+da+Rep%C3%BAblica%2C+Tavira",
       "translations": {
         "pt": {
@@ -211,7 +211,7 @@
     },
     {
       "id": "tavira-3",
-      "image": "",
+      "image": "assets/places-tavira-3-1794770275742.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Ponte+Romana%2C+Tavira",
       "translations": {
         "pt": {
@@ -238,7 +238,7 @@
     },
     {
       "id": "tavira-4",
-      "image": "",
+      "image": "assets/places-tavira-4-1794770278373.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Praia+da+Ilha+de+Tavira",
       "translations": {
         "pt": {
@@ -265,7 +265,7 @@
     },
     {
       "id": "tavira-5",
-      "image": "",
+      "image": "assets/places-tavira-5-1794770280491.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Praia+do+Barril%2C+Santa+Luzia",
       "translations": {
         "pt": {
@@ -292,7 +292,7 @@
     },
     {
       "id": "tavira-6",
-      "image": "",
+      "image": "assets/places-tavira-6-1794770283058.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Cacela+Velha%2C+Vila+Real+de+Santo+Ant%C3%B3nio",
       "translations": {
         "pt": {
@@ -319,7 +319,7 @@
     },
     {
       "id": "tavira-7",
-      "image": "",
+      "image": "assets/places-tavira-7-1794770285053.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Salinas+de+Tavira",
       "translations": {
         "pt": {
@@ -346,7 +346,7 @@
     },
     {
       "id": "tavira-8",
-      "image": "",
+      "image": "assets/places-tavira-8-1794770286928.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Mercado+da+Ribeira%2C+Tavira",
       "translations": {
         "pt": {
@@ -373,7 +373,7 @@
     },
     {
       "id": "tavira-9",
-      "image": "",
+      "image": "assets/places-tavira-9-1794770288670.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Igreja+de+Santa+Maria+do+Castelo%2C+Tavira",
       "translations": {
         "pt": {
@@ -803,7 +803,7 @@
       "translations": {
         "pt": {
           "title": "Check-in e Check-out",
-          "body": ""
+          "body": "O check-in é entre as 16:00 e as 21:00 e o check-out deve ser efetuado antes das 10:00. Confirme as instruções de acesso com a anfitriã através das mensagens da sua reserva Airbnb."
         },
         "en": {
           "title": "Check-in and check-out",
@@ -865,7 +865,7 @@
       "translations": {
         "pt": {
           "title": "Wi-Fi",
-          "body": ""
+          "body": "A casa dispõe de Wi-Fi. Confirme o nome da rede e a palavra-passe com a anfitriã."
         },
         "en": {
           "title": "Wi-Fi",
