@@ -596,7 +596,7 @@
   "activities": [
     {
       "id": "tavira-activity-1",
-      "image": "",
+      "image": "assets/activities-tavira-activity-1-1794770958575.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Cais+do+Ferry%2C+Tavira",
       "booking": "https://www.google.com/maps/search/?api=1&query=Cais+do+Ferry%2C+Tavira",
       "equicampo": false,
@@ -628,7 +628,7 @@
     },
     {
       "id": "tavira-activity-2",
-      "image": "",
+      "image": "assets/activities-tavira-activity-2-1794770960226.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Salinas+de+Tavira",
       "booking": "https://www.google.com/maps/search/?api=1&query=Salinas+de+Tavira",
       "equicampo": false,
@@ -660,7 +660,7 @@
     },
     {
       "id": "tavira-activity-3",
-      "image": "",
+      "image": "assets/activities-tavira-activity-3-1794770962297.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a+da+Rep%C3%BAblica%2C+Tavira",
       "booking": "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a+da+Rep%C3%BAblica%2C+Tavira",
       "equicampo": false,
@@ -692,7 +692,7 @@
     },
     {
       "id": "tavira-activity-4",
-      "image": "",
+      "image": "assets/activities-tavira-activity-4-1794770964508.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Praia+da+Ilha+de+Tavira",
       "booking": "https://www.google.com/maps/search/?api=1&query=Praia+da+Ilha+de+Tavira",
       "equicampo": false,
@@ -724,7 +724,7 @@
     },
     {
       "id": "tavira-activity-5",
-      "image": "",
+      "image": "assets/activities-tavira-activity-5-1794770966137.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Salinas+de+Tavira",
       "booking": "https://www.google.com/maps/search/?api=1&query=Salinas+de+Tavira",
       "equicampo": false,
@@ -750,38 +750,6 @@
         },
         "de": {
           "name": "Besuch der Salinen",
-          "description": "Erkunden Sie Tavira und die Umgebung in Ihrem Tempo. Bitte Verfügbarkeit prüfen."
-        }
-      }
-    },
-    {
-      "id": "tavira-activity-6",
-      "image": "",
-      "maps": "https://www.google.com/maps/search/?api=1&query=Praia+do+Barril%2C+Santa+Luzia",
-      "booking": "https://www.google.com/maps/search/?api=1&query=Praia+do+Barril%2C+Santa+Luzia",
-      "equicampo": false,
-      "company": "",
-      "locality": "Tavira · Algarve",
-      "phone": "",
-      "translations": {
-        "pt": {
-          "name": "Percurso até à Praia do Barril",
-          "description": "Caminhe até ao areal e conheça o célebre cemitério de âncoras."
-        },
-        "en": {
-          "name": "Walk to Barril Beach",
-          "description": "Explore Tavira and its surroundings at your own pace. Check availability and seasonal access."
-        },
-        "es": {
-          "name": "Ruta hasta la Playa del Barril",
-          "description": "Explora Tavira y sus alrededores a tu ritmo. Consulta la disponibilidad."
-        },
-        "fr": {
-          "name": "Balade vers la plage du Barril",
-          "description": "Explorez Tavira et ses environs à votre rythme. Vérifiez les disponibilités."
-        },
-        "de": {
-          "name": "Weg zum Barril-Strand",
           "description": "Erkunden Sie Tavira und die Umgebung in Ihrem Tempo. Bitte Verfügbarkeit prüfen."
         }
       }
