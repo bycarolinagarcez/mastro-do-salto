@@ -1,6 +1,6 @@
 # Mastro do Salto — Guia Digital de Hóspedes
 
-Projeto independente baseado na estrutura do guia Casinha d’Aldeia, personalizado para a casa Mastro do Salto, em Tavira.
+Projeto independente personalizado para a casa Mastro do Salto, em Tavira.
 
 ## Utilização
 
