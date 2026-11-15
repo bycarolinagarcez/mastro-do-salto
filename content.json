@@ -10,7 +10,7 @@
   "address": "Centro histórico de Tavira, Tavira, Algarve, Portugal",
   "texts": {
     "pt": {
-      "welcome": "Bem-vindos ao Mastro do Salto!",
+      "welcome": "Bem-vindos!",
       "intro": "Entre o encanto das ruas históricas e a luz única do Algarve, esta é a vossa casa em Tavira. Desfrutem do pátio, dos fins de tarde no terraço e de descobrir a cidade sem pressas.\n\n**Sintam-se em casa!**",
       "guide": "A Sua Estadia",
       "discover": "Descobrir Tavira",
@@ -35,8 +35,8 @@
       "contactEmail": "Enviar e-mail",
       "hostsWebsiteButton": "Contactar através da Airbnb",
       "hostsHeading": "A sua anfitriã",
-      "checkinValue": "entre as 16:00 e as 21:00",
-      "checkoutValue": "antes das 10:00"
+      "checkinValue": "A confirmar com a anfitriã",
+      "checkoutValue": "A confirmar com a anfitriã"
     },
     "en": {
       "welcome": "Welcome to Mastro do Salto!",
@@ -64,8 +64,8 @@
       "hostsWebsiteButton": "Message via Airbnb",
       "hostsBody": "Hosted by Ana, Mastro do Salto is a thoughtfully renovated home combining comfort, durable materials and sustainability. Solar panels support the home’s utilities.",
       "rulesBody": "Please take care of the house and respect the peaceful historic neighbourhood. Turn off appliances and air conditioning and close windows before departure. Check your Airbnb booking for specific house rules.",
-      "checkinValue": "between 4:00 PM and 9:00 PM",
-      "checkoutValue": "before 10:00 AM"
+      "checkinValue": "Confirm with your host",
+      "checkoutValue": "Confirm with your host"
     },
     "es": {
       "welcome": "¡Bienvenidos a Mastro do Salto!",
@@ -93,8 +93,8 @@
       "hostsWebsiteButton": "Contactar por Airbnb",
       "hostsBody": "Ana presenta Mastro do Salto, una casa renovada que apuesta por el confort, los materiales duraderos y la sostenibilidad.",
       "rulesBody": "Cuidad de la casa y respetad la tranquilidad del barrio. Apagad los equipos y cerrad las ventanas antes de salir. Consultad las normas específicas en Airbnb.",
-      "checkinValue": "entre las 16:00 y las 21:00",
-      "checkoutValue": "antes de las 10:00"
+      "checkinValue": "Confirmar con la anfitriona",
+      "checkoutValue": "Confirmar con la anfitriona"
     },
     "fr": {
       "welcome": "Bienvenue au Mastro do Salto !",
@@ -122,8 +122,8 @@
       "hostsWebsiteButton": "Contacter via Airbnb",
       "hostsBody": "Ana propose une maison rénovée avec soin, privilégiant confort, durabilité et développement durable.",
       "rulesBody": "Prenez soin de la maison et respectez le calme du quartier. Éteignez les appareils et fermez les fenêtres en partant. Consultez Airbnb pour le règlement complet.",
-      "checkinValue": "entre 16 h et 21 h",
-      "checkoutValue": "avant 10 h"
+      "checkinValue": "À confirmer avec votre hôte",
+      "checkoutValue": "À confirmer avec votre hôte"
     },
     "de": {
       "welcome": "Willkommen im Mastro do Salto!",
@@ -150,8 +150,8 @@
       "hostsWebsiteButton": "Über Airbnb kontaktieren",
       "hostsBody": "Ana bietet ein sorgfältig renoviertes Haus mit Fokus auf Komfort, langlebige Materialien und Nachhaltigkeit.",
       "rulesBody": "Behandeln Sie das Haus sorgfältig und respektieren Sie die Ruhe im historischen Viertel. Schalten Sie Geräte aus und schließen Sie die Fenster. Die Hausregeln finden Sie bei Airbnb.",
-      "checkinValue": "zwischen 16:00 und 21:00 Uhr",
-      "checkoutValue": "vor 10:00 Uhr"
+      "checkinValue": "Mit Gastgeberin abklären",
+      "checkoutValue": "Mit Gastgeberin abklären"
     }
   },
   "places": [
@@ -788,12 +788,12 @@
     }
   ],
   "menuImages": {
-    "discover": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/ca64bf77-7fb6-49ff-936d-d7e04e9a2736.jpeg?im_w=1200",
-    "experiences": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/c3c52407-eedc-4fe5-8889-4a3ffecc17d0.jpeg?im_w=1200",
+    "discover": "assets/menu-discover-1794767609549.jpg",
+    "experiences": "assets/menu-experiences-1794767612783.jpg",
     "useful": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/6fd40750-6b27-4a97-b72e-111bb351c762.jpeg?im_w=1200",
-    "stay": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/ca64bf77-7fb6-49ff-936d-d7e04e9a2736.jpeg?im_w=1200",
+    "stay": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/6fd40750-6b27-4a97-b72e-111bb351c762.jpeg?im_w=1200",
     "guide": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/c3c52407-eedc-4fe5-8889-4a3ffecc17d0.jpeg?im_w=1200",
-    "food": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/6fd40750-6b27-4a97-b72e-111bb351c762.jpeg?im_w=1200"
+    "food": "assets/menu-food-1794767614601.jpg"
   },
   "staySections": [
     {
@@ -802,24 +802,24 @@
       "visible": true,
       "translations": {
         "pt": {
-          "title": "Check-in e check-out",
-          "body": "Confirme antecipadamente com a anfitriã, através das mensagens da sua reserva na Airbnb, os horários e as instruções de acesso à casa."
+          "title": "Check-in e Check-out",
+          "body": "Confirme antecipadamente com a anfitriã, através da reserva na Airbnb, os horários e as instruções de entrada."
         },
         "en": {
           "title": "Check-in and check-out",
-          "body": "Please confirm check-in and check-out times and how to access the property with your host through your Airbnb booking messages before arrival."
+          "body": "Please confirm times and entry instructions with your host through Airbnb before arrival."
         },
         "es": {
-          "title": "Llegada y salida",
-          "body": "Confirme con antelación con la anfitriona, a través de los mensajes de su reserva en Airbnb, los horarios de entrada y salida y las instrucciones de acceso a la casa."
+          "title": "Check-in and check-out",
+          "body": "Please confirm times and entry instructions with your host through Airbnb before arrival."
         },
         "fr": {
-          "title": "Arrivée et départ",
-          "body": "Avant votre arrivée, veuillez confirmer les horaires d’arrivée et de départ ainsi que les modalités d’accès au logement auprès de votre hôte, via la messagerie de votre réservation Airbnb."
+          "title": "Check-in and check-out",
+          "body": "Please confirm times and entry instructions with your host through Airbnb before arrival."
         },
         "de": {
-          "title": "Anreise und Abreise",
-          "body": "Bitte klären Sie vor Ihrer Anreise die Check-in- und Check-out-Zeiten sowie den Zugang zur Unterkunft über die Nachrichtenfunktion Ihrer Airbnb-Buchung mit Ihrer Gastgeberin."
+          "title": "Check-in and check-out",
+          "body": "Please confirm times and entry instructions with your host through Airbnb before arrival."
         }
       },
       "buttonLabel": "",
@@ -834,23 +834,23 @@
       "translations": {
         "pt": {
           "title": "Estacionamento",
-          "body": "O anúncio indica estacionamento gratuito na rua. Como a casa fica no centro histórico, confirme com a anfitriã onde é mais prático estacionar e descarregar a bagagem."
+          "body": "O anúncio indica estacionamento gratuito na rua. Como a casa fica no centro histórico, confirme com a anfitriã onde é mais prático estacionar e descarregar malas."
         },
         "en": {
           "title": "Parking",
-          "body": "Free on-street parking is listed in the property description. As the house is in the historic centre, ask your host where it is most convenient to park and unload your luggage."
+          "body": "Free street parking is listed. Ask your host where best to park and unload bags near the historic centre."
         },
         "es": {
-          "title": "Aparcamiento",
-          "body": "El anuncio indica que hay aparcamiento gratuito en la calle. Como la casa se encuentra en el centro histórico, consulte con la anfitriona dónde es más práctico aparcar y descargar el equipaje."
+          "title": "Parking",
+          "body": "Free street parking is listed. Ask your host where best to park and unload bags near the historic centre."
         },
         "fr": {
-          "title": "Stationnement",
-          "body": "L’annonce indique qu’un stationnement gratuit est possible dans la rue. La maison se trouvant dans le centre historique, demandez à votre hôte où il est le plus pratique de vous garer et de décharger vos bagages."
+          "title": "Parking",
+          "body": "Free street parking is listed. Ask your host where best to park and unload bags near the historic centre."
         },
         "de": {
-          "title": "Parken",
-          "body": "Laut Inserat stehen kostenlose Parkmöglichkeiten an der Straße zur Verfügung. Da sich das Haus in der Altstadt befindet, fragen Sie Ihre Gastgeberin, wo Sie am besten parken und Ihr Gepäck ausladen können."
+          "title": "Parking",
+          "body": "Free street parking is listed. Ask your host where best to park and unload bags near the historic centre."
         }
       },
       "buttonLabel": "",
@@ -865,23 +865,23 @@
       "translations": {
         "pt": {
           "title": "Wi-Fi",
-          "body": "A casa dispõe de Wi-Fi. Confirme o nome da rede e a palavra-passe com a anfitriã."
+          "body": "A casa dispõe de Wi-Fi. A rede e palavra-passe devem ser confirmadas com a anfitriã."
         },
         "en": {
           "title": "Wi-Fi",
-          "body": "Wi-Fi is available at the property. Please confirm the network name and password with your host."
+          "body": "Wi-Fi is available. Confirm the network name and password with your host."
         },
         "es": {
           "title": "Wi-Fi",
-          "body": "La casa dispone de Wi-Fi. Confirme el nombre de la red y la contraseña con la anfitriona."
+          "body": "Wi-Fi is available. Confirm the network name and password with your host."
         },
         "fr": {
           "title": "Wi-Fi",
-          "body": "La maison dispose d’une connexion Wi-Fi. Veuillez confirmer le nom du réseau et le mot de passe auprès de votre hôte."
+          "body": "Wi-Fi is available. Confirm the network name and password with your host."
         },
         "de": {
-          "title": "WLAN",
-          "body": "Im Haus steht WLAN zur Verfügung. Bitte erfragen Sie den Netzwerknamen und das Passwort bei Ihrer Gastgeberin."
+          "title": "Wi-Fi",
+          "body": "Wi-Fi is available. Confirm the network name and password with your host."
         }
       },
       "buttonLabel": "",
@@ -895,24 +895,24 @@
       "visible": true,
       "translations": {
         "pt": {
-          "title": "Salamandra e ar condicionado",
-          "body": "A sala dispõe de uma salamandra a lenha e as divisões têm ar condicionado com aquecimento e arrefecimento. Peça à anfitriã instruções antes de utilizar a salamandra."
+          "title": "Salamandra e climatização",
+          "body": "A sala dispõe de salamandra e os compartimentos têm ar condicionado quente/frio. Peça instruções à anfitriã antes de utilizar a salamandra."
         },
         "en": {
-          "title": "Wood-burning stove and air conditioning",
-          "body": "The living room has a wood-burning stove, and the rooms have air conditioning for heating and cooling. Please ask your host for instructions before using the stove."
+          "title": "Stove and air conditioning",
+          "body": "The living room has a wood-burning stove, and rooms have heating/cooling air conditioning. Ask your host for stove instructions."
         },
         "es": {
-          "title": "Estufa de leña y aire acondicionado",
-          "body": "El salón dispone de una estufa de leña y las habitaciones cuentan con aire acondicionado con funciones de calefacción y refrigeración. Pida instrucciones a la anfitriona antes de utilizar la estufa."
+          "title": "Stove and air conditioning",
+          "body": "The living room has a wood-burning stove, and rooms have heating/cooling air conditioning. Ask your host for stove instructions."
         },
         "fr": {
-          "title": "Poêle à bois et climatisation",
-          "body": "Le salon dispose d’un poêle à bois et les pièces sont équipées d’une climatisation réversible (chauffage et rafraîchissement). Demandez les consignes d’utilisation du poêle à votre hôte avant de l’allumer."
+          "title": "Stove and air conditioning",
+          "body": "The living room has a wood-burning stove, and rooms have heating/cooling air conditioning. Ask your host for stove instructions."
         },
         "de": {
-          "title": "Holzofen und Klimaanlage",
-          "body": "Im Wohnzimmer befindet sich ein Holzofen. Die Räume verfügen über eine Klimaanlage zum Heizen und Kühlen. Bitte lassen Sie sich vor der Nutzung des Ofens von Ihrer Gastgeberin einweisen."
+          "title": "Stove and air conditioning",
+          "body": "The living room has a wood-burning stove, and rooms have heating/cooling air conditioning. Ask your host for stove instructions."
         }
       },
       "buttonLabel": "",
@@ -926,24 +926,24 @@
       "visible": true,
       "translations": {
         "pt": {
-          "title": "Eletrodomésticos e equipamentos",
-          "body": "A cozinha dispõe de máquina de lavar loiça, máquina de lavar roupa, frigorífico com congelador, forno, torradeira, iogurteira, máquina de café Nespresso e utensílios de cozinha. A sala tem televisão e sistema de áudio Bluetooth."
+          "title": "Guia dos equipamentos",
+          "body": "Cozinha com máquina de lavar loiça e roupa, frigorífico com congelador, forno, torradeira, iogurteira, máquina Nespresso e outros utensílios. A sala tem televisão e sistema de áudio Bluetooth."
         },
         "en": {
           "title": "Appliances and equipment",
-          "body": "The kitchen includes a dishwasher, washing machine, fridge-freezer, oven, toaster, yoghurt maker, Nespresso coffee machine and cooking utensils. The living room has a TV and Bluetooth audio system."
+          "body": "The kitchen includes dishwasher, washing machine, fridge-freezer, oven, toaster, yoghurt maker, Nespresso machine and utensils. The lounge has a TV and Bluetooth audio."
         },
         "es": {
-          "title": "Electrodomésticos y equipamiento",
-          "body": "La cocina dispone de lavavajillas, lavadora, frigorífico con congelador, horno, tostadora, yogurtera, cafetera Nespresso y utensilios de cocina. El salón cuenta con televisión y un sistema de audio Bluetooth."
+          "title": "Appliances and equipment",
+          "body": "The kitchen includes dishwasher, washing machine, fridge-freezer, oven, toaster, yoghurt maker, Nespresso machine and utensils. The lounge has a TV and Bluetooth audio."
         },
         "fr": {
-          "title": "Électroménager et équipements",
-          "body": "La cuisine est équipée d’un lave-vaisselle, d’un lave-linge, d’un réfrigérateur-congélateur, d’un four, d’un grille-pain, d’une yaourtière, d’une machine à café Nespresso et d’ustensiles de cuisine. Le salon dispose d’une télévision et d’un système audio Bluetooth."
+          "title": "Appliances and equipment",
+          "body": "The kitchen includes dishwasher, washing machine, fridge-freezer, oven, toaster, yoghurt maker, Nespresso machine and utensils. The lounge has a TV and Bluetooth audio."
         },
         "de": {
-          "title": "Haushaltsgeräte und Ausstattung",
-          "body": "Die Küche ist mit Geschirrspüler, Waschmaschine, Kühl-Gefrierkombination, Backofen, Toaster, Joghurtbereiter, Nespresso-Kaffeemaschine und Kochutensilien ausgestattet. Im Wohnzimmer gibt es einen Fernseher und ein Bluetooth-Audiosystem."
+          "title": "Appliances and equipment",
+          "body": "The kitchen includes dishwasher, washing machine, fridge-freezer, oven, toaster, yoghurt maker, Nespresso machine and utensils. The lounge has a TV and Bluetooth audio."
         }
       },
       "buttonLabel": "",
@@ -958,23 +958,23 @@
       "translations": {
         "pt": {
           "title": "Lixo e reciclagem",
-          "body": "Separe os resíduos recicláveis sempre que possível. Confirme com a anfitriã a localização dos contentores mais próximos e as indicações para a recolha do lixo."
+          "body": "Separe resíduos sempre que possível. Confirme com a anfitriã a localização dos contentores mais próximos e as instruções de recolha."
         },
         "en": {
           "title": "Waste and recycling",
-          "body": "Please separate recyclable waste whenever possible. Ask your host where to find the nearest bins and whether there are any specific waste-disposal instructions."
+          "body": "Please separate recyclable waste where possible. Ask your host where to find nearby bins."
         },
         "es": {
-          "title": "Basura y reciclaje",
-          "body": "Separe los residuos reciclables siempre que sea posible. Consulte con la anfitriona dónde se encuentran los contenedores más cercanos y si hay instrucciones específicas para depositar la basura."
+          "title": "Waste and recycling",
+          "body": "Please separate recyclable waste where possible. Ask your host where to find nearby bins."
         },
         "fr": {
-          "title": "Déchets et recyclage",
-          "body": "Veuillez trier les déchets recyclables dans la mesure du possible. Demandez à votre hôte où se trouvent les conteneurs les plus proches et s’il existe des consignes particulières pour les déchets."
+          "title": "Waste and recycling",
+          "body": "Please separate recyclable waste where possible. Ask your host where to find nearby bins."
         },
         "de": {
-          "title": "Abfall und Recycling",
-          "body": "Bitte trennen Sie recycelbare Abfälle nach Möglichkeit. Fragen Sie Ihre Gastgeberin, wo sich die nächsten Müllcontainer befinden und ob besondere Hinweise zur Müllentsorgung gelten."
+          "title": "Waste and recycling",
+          "body": "Please separate recyclable waste where possible. Ask your host where to find nearby bins."
         }
       },
       "buttonLabel": "",
@@ -989,23 +989,23 @@
       "translations": {
         "pt": {
           "title": "Regras da casa",
-          "body": "Respeite a tranquilidade do bairro histórico e cuide dos equipamentos e do mobiliário. Consulte as regras específicas indicadas na sua reserva Airbnb."
+          "body": "Respeite o sossego do bairro e cuide dos equipamentos e mobiliário. Consulte as regras específicas da sua reserva Airbnb."
         },
         "en": {
           "title": "House rules",
-          "body": "Please respect the peace of the historic neighbourhood and take care of the furniture and equipment. Refer to your Airbnb booking for the specific house rules."
+          "body": "Please respect the quiet neighbourhood and take care of the property. Refer to your Airbnb booking for any specific rules."
         },
         "es": {
-          "title": "Normas de la casa",
-          "body": "Respete la tranquilidad del barrio histórico y cuide el mobiliario y los equipos. Consulte las normas específicas de la vivienda indicadas en su reserva de Airbnb."
+          "title": "House rules",
+          "body": "Please respect the quiet neighbourhood and take care of the property. Refer to your Airbnb booking for any specific rules."
         },
         "fr": {
-          "title": "Règlement de la maison",
-          "body": "Merci de respecter la tranquillité du quartier historique et de prendre soin du mobilier et des équipements. Consultez les règles propres au logement dans votre réservation Airbnb."
+          "title": "House rules",
+          "body": "Please respect the quiet neighbourhood and take care of the property. Refer to your Airbnb booking for any specific rules."
         },
         "de": {
-          "title": "Hausregeln",
-          "body": "Bitte nehmen Sie Rücksicht auf die Ruhe im historischen Viertel und gehen Sie sorgsam mit Möbeln und Ausstattung um. Die geltenden Hausregeln finden Sie in Ihrer Airbnb-Buchung."
+          "title": "House rules",
+          "body": "Please respect the quiet neighbourhood and take care of the property. Refer to your Airbnb booking for any specific rules."
         }
       },
       "buttonLabel": "",
@@ -1020,23 +1020,23 @@
       "translations": {
         "pt": {
           "title": "Segurança e emergências",
-          "body": "Em caso de emergência, ligue 112. À chegada, identifique as saídas e confirme a localização dos equipamentos de segurança da casa."
+          "body": "Em caso de emergência ligue 112. Confirme à chegada a localização dos equipamentos de segurança e das saídas."
         },
         "en": {
           "title": "Safety and emergencies",
-          "body": "In an emergency, call 112. On arrival, locate the exits and check where the property’s safety equipment is kept."
+          "body": "Call 112 in an emergency. On arrival, identify safety equipment and exits."
         },
         "es": {
-          "title": "Seguridad y emergencias",
-          "body": "En caso de emergencia, llame al 112. A su llegada, localice las salidas y compruebe dónde se encuentran los equipos de seguridad de la vivienda."
+          "title": "Safety and emergencies",
+          "body": "Call 112 in an emergency. On arrival, identify safety equipment and exits."
         },
         "fr": {
-          "title": "Sécurité et urgences",
-          "body": "En cas d’urgence, appelez le 112. À votre arrivée, repérez les sorties et vérifiez où se trouvent les équipements de sécurité du logement."
+          "title": "Safety and emergencies",
+          "body": "Call 112 in an emergency. On arrival, identify safety equipment and exits."
         },
         "de": {
-          "title": "Sicherheit und Notfälle",
-          "body": "Wählen Sie im Notfall die 112. Machen Sie sich bei der Ankunft mit den Ausgängen vertraut und informieren Sie sich darüber, wo sich die Sicherheitsausrüstung befindet."
+          "title": "Safety and emergencies",
+          "body": "Call 112 in an emergency. On arrival, identify safety equipment and exits."
         }
       },
       "buttonLabel": "",
