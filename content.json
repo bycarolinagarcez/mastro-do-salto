@@ -1,0 +1,1056 @@
+{
+  "brand": "Mastro do Salto",
+  "heroImage": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/ca64bf77-7fb6-49ff-936d-d7e04e9a2736.jpeg?im_w=1200",
+  "wifiName": "",
+  "wifiPassword": "",
+  "checkin": "A confirmar com a anfitriã",
+  "checkout": "A confirmar com a anfitriã",
+  "whatsapp": "",
+  "maps": "https://www.google.com/maps/search/?api=1&query=Mastro+do+Salto+Tavira",
+  "address": "Centro histórico de Tavira, Tavira, Algarve, Portugal",
+  "texts": {
+    "pt": {
+      "welcome": "Bem-vindos ao Mastro do Salto!",
+      "intro": "Entre o encanto das ruas históricas e a luz única do Algarve, esta é a vossa casa em Tavira. Desfrutem do pátio, dos fins de tarde no terraço e de descobrir a cidade sem pressas.\n\n**Sintam-se em casa!**",
+      "guide": "A Sua Estadia",
+      "discover": "Descobrir Tavira",
+      "experiences": "Experiências",
+      "hosts": "Anfitriões",
+      "rules": "Regras da casa",
+      "guideBody": "Esperamos que desfrute de uma estadia confortável no Mastro do Salto. Para informações específicas de chegada e saída, contacte a anfitriã através da Airbnb.",
+      "discoverBody": "Tavira convida a passeios à beira do Gilão, ruas cheias de história e dias tranquilos na Ria Formosa. Descubra os nossos lugares favoritos, desde o castelo às praias das ilhas-barreira.",
+      "experiencesBody": "Do barco para a Ilha de Tavira às salinas e às caminhadas junto à Ria Formosa, há muitas formas de viver o sotavento algarvio.",
+      "rulesBody": "Cuide da casa e respeite a tranquilidade do bairro histórico. Antes de sair, desligue o ar condicionado e os equipamentos, feche as janelas e deixe os espaços arrumados. Para regras específicas, consulte a sua reserva na Airbnb.",
+      "food": "Sabores do Algarve",
+      "equicampoOffer": "",
+      "directionsBody": "A casa situa-se no centro histórico de Tavira, num bairro tranquilo. Utilize o mapa para localizar a zona; confirme a morada exata e as instruções de acesso com a anfitriã antes da chegada.",
+      "directionsButton": "Ver localização no mapa",
+      "hostsBody": "O Mastro do Salto é apresentado pela Ana: uma casa renovada com atenção ao conforto, aos materiais duradouros e à sustentabilidade. A eletricidade e a água contam com o apoio de painéis solares.",
+      "foodBody": "Entre peixe fresco, polvo, cataplanas e doces regionais, descubra algumas sugestões de restaurantes em Tavira. Confirme os horários e reserve diretamente com cada estabelecimento.",
+      "stayIntro": "Uma casa luminosa com três quartos, duas casas de banho, cozinha equipada, pátio com duche exterior e terraço no último piso. Consulte as informações práticas abaixo.",
+      "contactHeading": "Contactar a anfitriã",
+      "contactIntro": "A Ana recebe os hóspedes do Mastro do Salto. Para esclarecer dúvidas ou combinar a chegada, utilize as mensagens da reserva na Airbnb.",
+      "contactCall": "Ligar",
+      "contactWhatsapp": "WhatsApp",
+      "contactEmail": "Enviar e-mail",
+      "hostsWebsiteButton": "Contactar através da Airbnb",
+      "hostsHeading": "A sua anfitriã",
+      "checkinValue": "A confirmar com a anfitriã",
+      "checkoutValue": "A confirmar com a anfitriã"
+    },
+    "en": {
+      "welcome": "Welcome to Mastro do Salto!",
+      "intro": "Set between the historic streets of Tavira and the Algarve’s beautiful light, this is your home away from home. Enjoy the courtyard, sunset moments on the rooftop terrace and exploring the town at your own pace.\n\n**Make yourselves at home!**",
+      "guide": "Your Stay",
+      "discover": "Discover Tavira",
+      "experiences": "Experiences",
+      "hosts": "Your Host",
+      "rules": "House Rules",
+      "food": "Flavours of the Algarve",
+      "guideBody": "We hope you have a wonderful stay. Please contact your host through Airbnb for arrival and departure details.",
+      "discoverBody": "Wander the Gilão riverside, explore the charming old town and discover the Ria Formosa, the castle and the island beaches.",
+      "experiencesBody": "From ferry trips to Tavira Island to coastal walks and salt pans, discover the quieter side of the eastern Algarve.",
+      "foodBody": "Enjoy fresh fish, octopus, cataplana and regional sweets. Check opening hours and reservations directly with each restaurant.",
+      "stayIntro": "A bright three-bedroom house with two bathrooms, an equipped kitchen, courtyard with outdoor shower and rooftop terrace. Find practical information below.",
+      "directionsBody": "The house is in a quiet area of Tavira’s historic centre. Use the map to find the area and confirm the exact address and arrival instructions with your host.",
+      "directionsButton": "See location on map",
+      "equicampoOffer": "",
+      "contactHeading": "Contact your host",
+      "contactIntro": "Ana is your host at Mastro do Salto. Please use your Airbnb reservation messages for questions and arrival arrangements.",
+      "contactCall": "Call",
+      "contactWhatsapp": "WhatsApp",
+      "contactEmail": "Send an Email",
+      "hostsHeading": "Meet your host",
+      "hostsWebsiteButton": "Message via Airbnb",
+      "hostsBody": "Hosted by Ana, Mastro do Salto is a thoughtfully renovated home combining comfort, durable materials and sustainability. Solar panels support the home’s utilities.",
+      "rulesBody": "Please take care of the house and respect the peaceful historic neighbourhood. Turn off appliances and air conditioning and close windows before departure. Check your Airbnb booking for specific house rules.",
+      "checkinValue": "Confirm with your host",
+      "checkoutValue": "Confirm with your host"
+    },
+    "es": {
+      "welcome": "¡Bienvenidos a Mastro do Salto!",
+      "intro": "Entre las calles históricas de Tavira y la luz del Algarve, esta es vuestra casa. Disfrutad del patio, la terraza y la ciudad sin prisas.\n\n**¡Sentíos como en casa!**",
+      "guide": "Su estancia",
+      "discover": "Descubrir Tavira",
+      "experiences": "Experiencias",
+      "hosts": "Su anfitrión",
+      "rules": "Normas de la casa",
+      "food": "Sabores del Algarve",
+      "guideBody": "Esperamos que disfrutéis de la estancia. Consultad los detalles de llegada y salida con la anfitriona mediante Airbnb.",
+      "discoverBody": "Pasead junto al río Gilão, descubrid el casco antiguo y explorad la Ría Formosa, el castillo y las playas de las islas.",
+      "experiencesBody": "Excursiones en barco a la Isla de Tavira, paseos costeros y salinas: descubrid el Algarve oriental.",
+      "foodBody": "Pescado fresco, pulpo, cataplanas y dulces regionales. Consultad los horarios y reservas de cada restaurante.",
+      "stayIntro": "Casa luminosa con tres dormitorios, dos baños, cocina equipada, patio con ducha exterior y terraza en la azotea.",
+      "directionsBody": "La casa está en una zona tranquila del centro histórico de Tavira. Confirmad la dirección exacta y las instrucciones de llegada con la anfitriona.",
+      "directionsButton": "Ver ubicación en el mapa",
+      "equicampoOffer": "",
+      "contactHeading": "Contactar con la anfitriona",
+      "contactIntro": "Ana es vuestra anfitriona. Utilizad los mensajes de la reserva de Airbnb para consultas y llegadas.",
+      "contactCall": "Llamar",
+      "contactWhatsapp": "WhatsApp",
+      "contactEmail": "Enviar correo electrónico",
+      "hostsHeading": "Vuestra anfitriona",
+      "hostsWebsiteButton": "Contactar por Airbnb",
+      "hostsBody": "Ana presenta Mastro do Salto, una casa renovada que apuesta por el confort, los materiales duraderos y la sostenibilidad.",
+      "rulesBody": "Cuidad de la casa y respetad la tranquilidad del barrio. Apagad los equipos y cerrad las ventanas antes de salir. Consultad las normas específicas en Airbnb.",
+      "checkinValue": "Confirmar con la anfitriona",
+      "checkoutValue": "Confirmar con la anfitriona"
+    },
+    "fr": {
+      "welcome": "Bienvenue au Mastro do Salto !",
+      "intro": "Entre les ruelles historiques de Tavira et la lumière de l’Algarve, voici votre maison. Profitez du patio, du toit-terrasse et de la ville à votre rythme.\n\n**Faites comme chez vous !**",
+      "guide": "Votre séjour",
+      "discover": "Découvrir Tavira",
+      "experiences": "Expériences",
+      "hosts": "Votre hôte",
+      "rules": "Règles de la maison",
+      "food": "Saveurs de l’Algarve",
+      "guideBody": "Nous vous souhaitons un agréable séjour. Contactez votre hôte sur Airbnb pour les modalités d’arrivée et de départ.",
+      "discoverBody": "Promenez-vous le long du Gilão, découvrez la vieille ville, le château, la Ria Formosa et les plages des îles.",
+      "experiencesBody": "Traversée vers l’île de Tavira, promenades côtières et marais salants : explorez l’est de l’Algarve.",
+      "foodBody": "Poisson frais, poulpe, cataplana et douceurs régionales. Vérifiez les horaires et réservations auprès des restaurants.",
+      "stayIntro": "Maison lumineuse avec trois chambres, deux salles de bains, cuisine équipée, patio avec douche extérieure et toit-terrasse.",
+      "directionsBody": "La maison se trouve dans un quartier calme du centre historique de Tavira. Confirmez l’adresse exacte et l’accès auprès de votre hôte.",
+      "directionsButton": "Voir sur la carte",
+      "equicampoOffer": "",
+      "contactHeading": "Contacter votre hôte",
+      "contactIntro": "Ana vous accueille au Mastro do Salto. Contactez-la via les messages de votre réservation Airbnb.",
+      "contactCall": "Appeler",
+      "contactWhatsapp": "WhatsApp",
+      "contactEmail": "Envoyer un e-mail",
+      "hostsHeading": "Votre hôte",
+      "hostsWebsiteButton": "Contacter via Airbnb",
+      "hostsBody": "Ana propose une maison rénovée avec soin, privilégiant confort, durabilité et développement durable.",
+      "rulesBody": "Prenez soin de la maison et respectez le calme du quartier. Éteignez les appareils et fermez les fenêtres en partant. Consultez Airbnb pour le règlement complet.",
+      "checkinValue": "À confirmer avec votre hôte",
+      "checkoutValue": "À confirmer avec votre hôte"
+    },
+    "de": {
+      "welcome": "Willkommen im Mastro do Salto!",
+      "intro": "Zwischen Taviras historischen Gassen und dem Licht der Algarve liegt Ihr Zuhause auf Zeit. Genießen Sie den Innenhof, die Dachterrasse und die Stadt ganz in Ruhe.\n\n**Fühlen Sie sich wie zu Hause!**",
+      "guide": "Ihr Aufenthalt",
+      "discover": "Tavira entdecken",
+      "experiences": "Erlebnisse",
+      "hosts": "Ihr Gastgeber",
+      "rules": "Hausregeln",
+      "food": "Kulinarisches Algarve",
+      "guideBody": "Wir wünschen Ihnen einen schönen Aufenthalt. Bitte klären Sie An- und Abreise über Airbnb mit Ihrer Gastgeberin.",
+      "discoverBody": "Entdecken Sie die Altstadt am Fluss Gilão, die Burg, die Ria Formosa und die Strände der vorgelagerten Inseln.",
+      "experiencesBody": "Bootsausflüge zur Ilha de Tavira, Küstenwanderungen und Salinen: Erleben Sie die Ostalgarve.",
+      "foodBody": "Frischer Fisch, Oktopus, Cataplana und regionale Süßspeisen. Prüfen Sie Öffnungszeiten und Reservierung direkt beim Restaurant.",
+      "stayIntro": "Helles Haus mit drei Schlafzimmern, zwei Bädern, ausgestatteter Küche, Innenhof mit Außendusche und Dachterrasse.",
+      "directionsBody": "Das Haus liegt in einer ruhigen Gegend der historischen Altstadt von Tavira. Bitte bestätigen Sie genaue Adresse und Anreiseinformationen mit Ihrer Gastgeberin.",
+      "directionsButton": "Standort auf Karte anzeigen",
+      "equicampoOffer": "",
+      "contactHeading": "Gastgeberin kontaktieren",
+      "contactIntro": "Ana ist Ihre Gastgeberin im Mastro do Salto. Nutzen Sie für Fragen den Nachrichtenbereich Ihrer Airbnb-Buchung.",
+      "contactCall": "Anrufen",
+      "contactWhatsapp": "WhatsApp",
+      "contactEmail": "E-Mail senden",
+      "hostsHeading": "Ihre Gastgeberin",
+      "hostsWebsiteButton": "Über Airbnb kontaktieren",
+      "hostsBody": "Ana bietet ein sorgfältig renoviertes Haus mit Fokus auf Komfort, langlebige Materialien und Nachhaltigkeit.",
+      "rulesBody": "Behandeln Sie das Haus sorgfältig und respektieren Sie die Ruhe im historischen Viertel. Schalten Sie Geräte aus und schließen Sie die Fenster. Die Hausregeln finden Sie bei Airbnb.",
+      "checkinValue": "Mit Gastgeberin abklären",
+      "checkoutValue": "Mit Gastgeberin abklären"
+    }
+  },
+  "places": [
+    {
+      "id": "tavira-1",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Castelo+de+Tavira%2C+Tavira",
+      "translations": {
+        "pt": {
+          "name": "Castelo de Tavira",
+          "description": "Suba à zona histórica e admire as vistas sobre os telhados de Tavira, o rio e a ria."
+        },
+        "en": {
+          "name": "Tavira Castle",
+          "description": "Discover one of Tavira’s historic and natural highlights."
+        },
+        "es": {
+          "name": "Castillo de Tavira",
+          "description": "Descubre uno de los lugares históricos y naturales de Tavira."
+        },
+        "fr": {
+          "name": "Château de Tavira",
+          "description": "Découvrez un des sites historiques et naturels de Tavira."
+        },
+        "de": {
+          "name": "Burg von Tavira",
+          "description": "Entdecken Sie eine der historischen und natürlichen Sehenswürdigkeiten Taviras."
+        }
+      }
+    },
+    {
+      "id": "tavira-2",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a+da+Rep%C3%BAblica%2C+Tavira",
+      "translations": {
+        "pt": {
+          "name": "Praça da República",
+          "description": "A praça central junto ao Rio Gilão, ideal para começar um passeio pelo centro."
+        },
+        "en": {
+          "name": "Republic Square",
+          "description": "Discover one of Tavira’s historic and natural highlights."
+        },
+        "es": {
+          "name": "Plaza de la República",
+          "description": "Descubre uno de los lugares históricos y naturales de Tavira."
+        },
+        "fr": {
+          "name": "Place de la République",
+          "description": "Découvrez un des sites historiques et naturels de Tavira."
+        },
+        "de": {
+          "name": "Platz der Republik",
+          "description": "Entdecken Sie eine der historischen und natürlichen Sehenswürdigkeiten Taviras."
+        }
+      }
+    },
+    {
+      "id": "tavira-3",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Ponte+Romana%2C+Tavira",
+      "translations": {
+        "pt": {
+          "name": "Ponte antiga sobre o Rio Gilão",
+          "description": "A ponte pedonal histórica une as duas margens e oferece uma vista encantadora da cidade."
+        },
+        "en": {
+          "name": "Old Gilão River Bridge",
+          "description": "Discover one of Tavira’s historic and natural highlights."
+        },
+        "es": {
+          "name": "Puente antiguo del Gilão",
+          "description": "Descubre uno de los lugares históricos y naturales de Tavira."
+        },
+        "fr": {
+          "name": "Vieux pont du Gilão",
+          "description": "Découvrez un des sites historiques et naturels de Tavira."
+        },
+        "de": {
+          "name": "Alte Gilão-Brücke",
+          "description": "Entdecken Sie eine der historischen und natürlichen Sehenswürdigkeiten Taviras."
+        }
+      }
+    },
+    {
+      "id": "tavira-4",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Praia+da+Ilha+de+Tavira",
+      "translations": {
+        "pt": {
+          "name": "Ilha de Tavira",
+          "description": "Praias de areia clara acessíveis por ferry ou táxi aquático, consoante a época e o serviço."
+        },
+        "en": {
+          "name": "Tavira Island",
+          "description": "Discover one of Tavira’s historic and natural highlights."
+        },
+        "es": {
+          "name": "Isla de Tavira",
+          "description": "Descubre uno de los lugares históricos y naturales de Tavira."
+        },
+        "fr": {
+          "name": "Île de Tavira",
+          "description": "Découvrez un des sites historiques et naturels de Tavira."
+        },
+        "de": {
+          "name": "Ilha de Tavira",
+          "description": "Entdecken Sie eine der historischen und natürlichen Sehenswürdigkeiten Taviras."
+        }
+      }
+    },
+    {
+      "id": "tavira-5",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Praia+do+Barril%2C+Santa+Luzia",
+      "translations": {
+        "pt": {
+          "name": "Praia do Barril",
+          "description": "Praia conhecida pelo cemitério de âncoras e pelos extensos areais da ilha."
+        },
+        "en": {
+          "name": "Barril Beach",
+          "description": "Discover one of Tavira’s historic and natural highlights."
+        },
+        "es": {
+          "name": "Playa del Barril",
+          "description": "Descubre uno de los lugares históricos y naturales de Tavira."
+        },
+        "fr": {
+          "name": "Plage de Barril",
+          "description": "Découvrez un des sites historiques et naturels de Tavira."
+        },
+        "de": {
+          "name": "Strand Praia do Barril",
+          "description": "Entdecken Sie eine der historischen und natürlichen Sehenswürdigkeiten Taviras."
+        }
+      }
+    },
+    {
+      "id": "tavira-6",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Cacela+Velha%2C+Vila+Real+de+Santo+Ant%C3%B3nio",
+      "translations": {
+        "pt": {
+          "name": "Cacela Velha",
+          "description": "Uma aldeia histórica com vistas magníficas para a Ria Formosa."
+        },
+        "en": {
+          "name": "Cacela Velha",
+          "description": "Discover one of Tavira’s historic and natural highlights."
+        },
+        "es": {
+          "name": "Cacela Velha",
+          "description": "Descubre uno de los lugares históricos y naturales de Tavira."
+        },
+        "fr": {
+          "name": "Cacela Velha",
+          "description": "Découvrez un des sites historiques et naturels de Tavira."
+        },
+        "de": {
+          "name": "Cacela Velha",
+          "description": "Entdecken Sie eine der historischen und natürlichen Sehenswürdigkeiten Taviras."
+        }
+      }
+    },
+    {
+      "id": "tavira-7",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Salinas+de+Tavira",
+      "translations": {
+        "pt": {
+          "name": "Salinas de Tavira",
+          "description": "Paisagem tradicional de extração de sal, onde é possível observar aves aquáticas."
+        },
+        "en": {
+          "name": "Tavira Salt Pans",
+          "description": "Discover one of Tavira’s historic and natural highlights."
+        },
+        "es": {
+          "name": "Salinas de Tavira",
+          "description": "Descubre uno de los lugares históricos y naturales de Tavira."
+        },
+        "fr": {
+          "name": "Salines de Tavira",
+          "description": "Découvrez un des sites historiques et naturels de Tavira."
+        },
+        "de": {
+          "name": "Salinen von Tavira",
+          "description": "Entdecken Sie eine der historischen und natürlichen Sehenswürdigkeiten Taviras."
+        }
+      }
+    },
+    {
+      "id": "tavira-8",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Mercado+da+Ribeira%2C+Tavira",
+      "translations": {
+        "pt": {
+          "name": "Mercado da Ribeira",
+          "description": "Antigo mercado reconvertido num espaço de lojas, restauração e vida cultural."
+        },
+        "en": {
+          "name": "Riverside Market",
+          "description": "Discover one of Tavira’s historic and natural highlights."
+        },
+        "es": {
+          "name": "Mercado de la Ribera",
+          "description": "Descubre uno de los lugares históricos y naturales de Tavira."
+        },
+        "fr": {
+          "name": "Marché de la Ribeira",
+          "description": "Découvrez un des sites historiques et naturels de Tavira."
+        },
+        "de": {
+          "name": "Mercado da Ribeira",
+          "description": "Entdecken Sie eine der historischen und natürlichen Sehenswürdigkeiten Taviras."
+        }
+      }
+    },
+    {
+      "id": "tavira-9",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Igreja+de+Santa+Maria+do+Castelo%2C+Tavira",
+      "translations": {
+        "pt": {
+          "name": "Igreja de Santa Maria do Castelo",
+          "description": "Igreja histórica no coração da zona alta, junto ao castelo."
+        },
+        "en": {
+          "name": "Santa Maria do Castelo Church",
+          "description": "Discover one of Tavira’s historic and natural highlights."
+        },
+        "es": {
+          "name": "Iglesia de Santa Maria do Castelo",
+          "description": "Descubre uno de los lugares históricos y naturales de Tavira."
+        },
+        "fr": {
+          "name": "Église Santa Maria do Castelo",
+          "description": "Découvrez un des sites historiques et naturels de Tavira."
+        },
+        "de": {
+          "name": "Kirche Santa Maria do Castelo",
+          "description": "Entdecken Sie eine der historischen und natürlichen Sehenswürdigkeiten Taviras."
+        }
+      }
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "tavira-restaurant-1",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Zeca+da+Bica+R.+Alm.+C%C3%A2ndido+dos+Reis+22%2C+8800-318+Tavira",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "Zeca da Bica",
+          "description": "Uma tasca tradicional com pratos portugueses e sabores algarvios."
+        },
+        "en": {
+          "name": "Zeca da Bica",
+          "description": "Local restaurant in Tavira. Check its current menu and opening hours."
+        },
+        "es": {
+          "name": "Zeca da Bica",
+          "description": "Restaurante en Tavira. Consulta el menú y horarios."
+        },
+        "fr": {
+          "name": "Zeca da Bica",
+          "description": "Restaurant à Tavira. Vérifiez le menu et les horaires."
+        },
+        "de": {
+          "name": "Zeca da Bica",
+          "description": "Restaurant in Tavira. Bitte Speisekarte und Öffnungszeiten prüfen."
+        }
+      },
+      "locality": "Tavira · Algarve",
+      "address": "R. Alm. Cândido dos Reis 22, 8800-318 Tavira",
+      "phone": "+351281323843"
+    },
+    {
+      "id": "tavira-restaurant-2",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Ponto+de+Encontro+Pra%C3%A7a+Dr.+Ant%C3%B3nio+Padinha+39%2C+8800-637+Tavira",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "Ponto de Encontro",
+          "description": "Cozinha portuguesa e mediterrânica, com pratos de peixe e polvo."
+        },
+        "en": {
+          "name": "Ponto de Encontro",
+          "description": "Local restaurant in Tavira. Check its current menu and opening hours."
+        },
+        "es": {
+          "name": "Ponto de Encontro",
+          "description": "Restaurante en Tavira. Consulta el menú y horarios."
+        },
+        "fr": {
+          "name": "Ponto de Encontro",
+          "description": "Restaurant à Tavira. Vérifiez le menu et les horaires."
+        },
+        "de": {
+          "name": "Ponto de Encontro",
+          "description": "Restaurant in Tavira. Bitte Speisekarte und Öffnungszeiten prüfen."
+        }
+      },
+      "locality": "Tavira · Algarve",
+      "address": "Praça Dr. António Padinha 39, 8800-637 Tavira",
+      "phone": "+351281323730"
+    },
+    {
+      "id": "tavira-restaurant-3",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=O+Coreto+R.+Jos%C3%A9+Pires+Padinha+2%2C+8800-354+Tavira",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "O Coreto",
+          "description": "Clássicos regionais e ambiente descontraído perto do Jardim do Coreto."
+        },
+        "en": {
+          "name": "O Coreto",
+          "description": "Local restaurant in Tavira. Check its current menu and opening hours."
+        },
+        "es": {
+          "name": "O Coreto",
+          "description": "Restaurante en Tavira. Consulta el menú y horarios."
+        },
+        "fr": {
+          "name": "O Coreto",
+          "description": "Restaurant à Tavira. Vérifiez le menu et les horaires."
+        },
+        "de": {
+          "name": "O Coreto",
+          "description": "Restaurant in Tavira. Bitte Speisekarte und Öffnungszeiten prüfen."
+        }
+      },
+      "locality": "Tavira · Algarve",
+      "address": "R. José Pires Padinha 2, 8800-354 Tavira",
+      "phone": "+351281326244"
+    },
+    {
+      "id": "tavira-restaurant-4",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Come+na+Gaveta+Av.+Dr.+Mateus+Teixeira+de+Azevedo+36%2C+8800-379+Tavira",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "Come na Gaveta",
+          "description": "Petiscos contemporâneos para partilhar, com influências mediterrânicas."
+        },
+        "en": {
+          "name": "Come na Gaveta",
+          "description": "Local restaurant in Tavira. Check its current menu and opening hours."
+        },
+        "es": {
+          "name": "Come na Gaveta",
+          "description": "Restaurante en Tavira. Consulta el menú y horarios."
+        },
+        "fr": {
+          "name": "Come na Gaveta",
+          "description": "Restaurant à Tavira. Vérifiez le menu et les horaires."
+        },
+        "de": {
+          "name": "Come na Gaveta",
+          "description": "Restaurant in Tavira. Bitte Speisekarte und Öffnungszeiten prüfen."
+        }
+      },
+      "locality": "Tavira · Algarve",
+      "address": "Av. Dr. Mateus Teixeira de Azevedo 36, 8800-379 Tavira",
+      "phone": "+351926677879"
+    },
+    {
+      "id": "tavira-restaurant-5",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Restaurante+Avenida+Tv.+Zacarias+Guerreiro%2C+8800-740+Tavira",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "Restaurante Avenida",
+          "description": "Cozinha tradicional, com destaque para pratos de peixe e arroz de marisco."
+        },
+        "en": {
+          "name": "Restaurante Avenida",
+          "description": "Local restaurant in Tavira. Check its current menu and opening hours."
+        },
+        "es": {
+          "name": "Restaurante Avenida",
+          "description": "Restaurante en Tavira. Consulta el menú y horarios."
+        },
+        "fr": {
+          "name": "Restaurante Avenida",
+          "description": "Restaurant à Tavira. Vérifiez le menu et les horaires."
+        },
+        "de": {
+          "name": "Restaurante Avenida",
+          "description": "Restaurant in Tavira. Bitte Speisekarte und Öffnungszeiten prüfen."
+        }
+      },
+      "locality": "Tavira · Algarve",
+      "address": "Tv. Zacarias Guerreiro, 8800-740 Tavira",
+      "phone": "+351961483281"
+    },
+    {
+      "id": "tavira-restaurant-6",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Tasquinha+da+Paula+Largo+dos+M%C3%A1rtires+da+Rep%C3%BAblica+3A%2C+8800-686+Tavira",
+      "booking": "",
+      "equicampo": false,
+      "translations": {
+        "pt": {
+          "name": "Tasquinha da Paula",
+          "description": "Pequena tasca familiar, ideal para descobrir sabores caseiros."
+        },
+        "en": {
+          "name": "Tasquinha da Paula",
+          "description": "Local restaurant in Tavira. Check its current menu and opening hours."
+        },
+        "es": {
+          "name": "Tasquinha da Paula",
+          "description": "Restaurante en Tavira. Consulta el menú y horarios."
+        },
+        "fr": {
+          "name": "Tasquinha da Paula",
+          "description": "Restaurant à Tavira. Vérifiez le menu et les horaires."
+        },
+        "de": {
+          "name": "Tasquinha da Paula",
+          "description": "Restaurant in Tavira. Bitte Speisekarte und Öffnungszeiten prüfen."
+        }
+      },
+      "locality": "Tavira · Algarve",
+      "address": "Largo dos Mártires da República 3A, 8800-686 Tavira",
+      "phone": "+351281109152"
+    }
+  ],
+  "activities": [
+    {
+      "id": "tavira-activity-1",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Cais+do+Ferry%2C+Tavira",
+      "booking": "https://www.google.com/maps/search/?api=1&query=Cais+do+Ferry%2C+Tavira",
+      "equicampo": false,
+      "company": "",
+      "locality": "Tavira · Algarve",
+      "phone": "",
+      "translations": {
+        "pt": {
+          "name": "Passeio de barco à Ilha de Tavira",
+          "description": "Embarque e descubra os areais da ilha. Os horários variam ao longo do ano."
+        },
+        "en": {
+          "name": "Tavira Island Ferry",
+          "description": "Explore Tavira and its surroundings at your own pace. Check availability and seasonal access."
+        },
+        "es": {
+          "name": "Ferry a la Isla de Tavira",
+          "description": "Explora Tavira y sus alrededores a tu ritmo. Consulta la disponibilidad."
+        },
+        "fr": {
+          "name": "Bateau vers l’île de Tavira",
+          "description": "Explorez Tavira et ses environs à votre rythme. Vérifiez les disponibilités."
+        },
+        "de": {
+          "name": "Boot zur Ilha de Tavira",
+          "description": "Erkunden Sie Tavira und die Umgebung in Ihrem Tempo. Bitte Verfügbarkeit prüfen."
+        }
+      }
+    },
+    {
+      "id": "tavira-activity-2",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Salinas+de+Tavira",
+      "booking": "https://www.google.com/maps/search/?api=1&query=Salinas+de+Tavira",
+      "equicampo": false,
+      "company": "",
+      "locality": "Tavira · Algarve",
+      "phone": "",
+      "translations": {
+        "pt": {
+          "name": "Observação de aves na Ria Formosa",
+          "description": "Explore as salinas e observe as aves que utilizam a ria como habitat."
+        },
+        "en": {
+          "name": "Birdwatching in Ria Formosa",
+          "description": "Explore Tavira and its surroundings at your own pace. Check availability and seasonal access."
+        },
+        "es": {
+          "name": "Observación de aves",
+          "description": "Explora Tavira y sus alrededores a tu ritmo. Consulta la disponibilidad."
+        },
+        "fr": {
+          "name": "Observation des oiseaux",
+          "description": "Explorez Tavira et ses environs à votre rythme. Vérifiez les disponibilités."
+        },
+        "de": {
+          "name": "Vogelbeobachtung",
+          "description": "Erkunden Sie Tavira und die Umgebung in Ihrem Tempo. Bitte Verfügbarkeit prüfen."
+        }
+      }
+    },
+    {
+      "id": "tavira-activity-3",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a+da+Rep%C3%BAblica%2C+Tavira",
+      "booking": "https://www.google.com/maps/search/?api=1&query=Pra%C3%A7a+da+Rep%C3%BAblica%2C+Tavira",
+      "equicampo": false,
+      "company": "",
+      "locality": "Tavira · Algarve",
+      "phone": "",
+      "translations": {
+        "pt": {
+          "name": "Passeio pelo centro histórico",
+          "description": "Descubra igrejas, arquitetura tradicional, ruas antigas e vistas sobre o Gilão."
+        },
+        "en": {
+          "name": "Historic Tavira Walk",
+          "description": "Explore Tavira and its surroundings at your own pace. Check availability and seasonal access."
+        },
+        "es": {
+          "name": "Paseo por el centro histórico",
+          "description": "Explora Tavira y sus alrededores a tu ritmo. Consulta la disponibilidad."
+        },
+        "fr": {
+          "name": "Promenade dans le centre historique",
+          "description": "Explorez Tavira et ses environs à votre rythme. Vérifiez les disponibilités."
+        },
+        "de": {
+          "name": "Altstadtspaziergang",
+          "description": "Erkunden Sie Tavira und die Umgebung in Ihrem Tempo. Bitte Verfügbarkeit prüfen."
+        }
+      }
+    },
+    {
+      "id": "tavira-activity-4",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Praia+da+Ilha+de+Tavira",
+      "booking": "https://www.google.com/maps/search/?api=1&query=Praia+da+Ilha+de+Tavira",
+      "equicampo": false,
+      "company": "",
+      "locality": "Tavira · Algarve",
+      "phone": "",
+      "translations": {
+        "pt": {
+          "name": "Dia de praia na Ilha de Tavira",
+          "description": "Uma pausa junto ao mar, entre dunas e longas praias de areia."
+        },
+        "en": {
+          "name": "Beach Day on Tavira Island",
+          "description": "Explore Tavira and its surroundings at your own pace. Check availability and seasonal access."
+        },
+        "es": {
+          "name": "Día de playa en la Isla de Tavira",
+          "description": "Explora Tavira y sus alrededores a tu ritmo. Consulta la disponibilidad."
+        },
+        "fr": {
+          "name": "Journée plage sur l’île de Tavira",
+          "description": "Explorez Tavira et ses environs à votre rythme. Vérifiez les disponibilités."
+        },
+        "de": {
+          "name": "Strandtag auf der Ilha de Tavira",
+          "description": "Erkunden Sie Tavira und die Umgebung in Ihrem Tempo. Bitte Verfügbarkeit prüfen."
+        }
+      }
+    },
+    {
+      "id": "tavira-activity-5",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Salinas+de+Tavira",
+      "booking": "https://www.google.com/maps/search/?api=1&query=Salinas+de+Tavira",
+      "equicampo": false,
+      "company": "",
+      "locality": "Tavira · Algarve",
+      "phone": "",
+      "translations": {
+        "pt": {
+          "name": "Visita às salinas",
+          "description": "Conheça uma paisagem marcante da história e natureza de Tavira."
+        },
+        "en": {
+          "name": "Discover the Salt Pans",
+          "description": "Explore Tavira and its surroundings at your own pace. Check availability and seasonal access."
+        },
+        "es": {
+          "name": "Visita a las salinas",
+          "description": "Explora Tavira y sus alrededores a tu ritmo. Consulta la disponibilidad."
+        },
+        "fr": {
+          "name": "Visite des salines",
+          "description": "Explorez Tavira et ses environs à votre rythme. Vérifiez les disponibilités."
+        },
+        "de": {
+          "name": "Besuch der Salinen",
+          "description": "Erkunden Sie Tavira und die Umgebung in Ihrem Tempo. Bitte Verfügbarkeit prüfen."
+        }
+      }
+    },
+    {
+      "id": "tavira-activity-6",
+      "image": "",
+      "maps": "https://www.google.com/maps/search/?api=1&query=Praia+do+Barril%2C+Santa+Luzia",
+      "booking": "https://www.google.com/maps/search/?api=1&query=Praia+do+Barril%2C+Santa+Luzia",
+      "equicampo": false,
+      "company": "",
+      "locality": "Tavira · Algarve",
+      "phone": "",
+      "translations": {
+        "pt": {
+          "name": "Percurso até à Praia do Barril",
+          "description": "Caminhe até ao areal e conheça o célebre cemitério de âncoras."
+        },
+        "en": {
+          "name": "Walk to Barril Beach",
+          "description": "Explore Tavira and its surroundings at your own pace. Check availability and seasonal access."
+        },
+        "es": {
+          "name": "Ruta hasta la Playa del Barril",
+          "description": "Explora Tavira y sus alrededores a tu ritmo. Consulta la disponibilidad."
+        },
+        "fr": {
+          "name": "Balade vers la plage du Barril",
+          "description": "Explorez Tavira et ses environs à votre rythme. Vérifiez les disponibilités."
+        },
+        "de": {
+          "name": "Weg zum Barril-Strand",
+          "description": "Erkunden Sie Tavira und die Umgebung in Ihrem Tempo. Bitte Verfügbarkeit prüfen."
+        }
+      }
+    }
+  ],
+  "menuImages": {
+    "discover": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/ca64bf77-7fb6-49ff-936d-d7e04e9a2736.jpeg?im_w=1200",
+    "experiences": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/c3c52407-eedc-4fe5-8889-4a3ffecc17d0.jpeg?im_w=1200",
+    "useful": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/6fd40750-6b27-4a97-b72e-111bb351c762.jpeg?im_w=1200",
+    "stay": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/ca64bf77-7fb6-49ff-936d-d7e04e9a2736.jpeg?im_w=1200",
+    "guide": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/c3c52407-eedc-4fe5-8889-4a3ffecc17d0.jpeg?im_w=1200",
+    "food": "https://a0.muscache.com/im/pictures/hosting/Hosting-1674456123499324884/original/6fd40750-6b27-4a97-b72e-111bb351c762.jpeg?im_w=1200"
+  },
+  "staySections": [
+    {
+      "id": "check",
+      "icon": "key",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Check-in e Check-out",
+          "body": "Confirme antecipadamente com a anfitriã, através da reserva na Airbnb, os horários e as instruções de entrada."
+        },
+        "en": {
+          "title": "Check-in and check-out",
+          "body": "Please confirm times and entry instructions with your host through Airbnb before arrival."
+        },
+        "es": {
+          "title": "Check-in and check-out",
+          "body": "Please confirm times and entry instructions with your host through Airbnb before arrival."
+        },
+        "fr": {
+          "title": "Check-in and check-out",
+          "body": "Please confirm times and entry instructions with your host through Airbnb before arrival."
+        },
+        "de": {
+          "title": "Check-in and check-out",
+          "body": "Please confirm times and entry instructions with your host through Airbnb before arrival."
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "parking",
+      "icon": "car",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Estacionamento",
+          "body": "O anúncio indica estacionamento gratuito na rua. Como a casa fica no centro histórico, confirme com a anfitriã onde é mais prático estacionar e descarregar malas."
+        },
+        "en": {
+          "title": "Parking",
+          "body": "Free street parking is listed. Ask your host where best to park and unload bags near the historic centre."
+        },
+        "es": {
+          "title": "Parking",
+          "body": "Free street parking is listed. Ask your host where best to park and unload bags near the historic centre."
+        },
+        "fr": {
+          "title": "Parking",
+          "body": "Free street parking is listed. Ask your host where best to park and unload bags near the historic centre."
+        },
+        "de": {
+          "title": "Parking",
+          "body": "Free street parking is listed. Ask your host where best to park and unload bags near the historic centre."
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "wifi",
+      "icon": "wifi",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Wi-Fi",
+          "body": "A casa dispõe de Wi-Fi. A rede e palavra-passe devem ser confirmadas com a anfitriã."
+        },
+        "en": {
+          "title": "Wi-Fi",
+          "body": "Wi-Fi is available. Confirm the network name and password with your host."
+        },
+        "es": {
+          "title": "Wi-Fi",
+          "body": "Wi-Fi is available. Confirm the network name and password with your host."
+        },
+        "fr": {
+          "title": "Wi-Fi",
+          "body": "Wi-Fi is available. Confirm the network name and password with your host."
+        },
+        "de": {
+          "title": "Wi-Fi",
+          "body": "Wi-Fi is available. Confirm the network name and password with your host."
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "fireplace",
+      "icon": "flame",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Salamandra e climatização",
+          "body": "A sala dispõe de salamandra e os compartimentos têm ar condicionado quente/frio. Peça instruções à anfitriã antes de utilizar a salamandra."
+        },
+        "en": {
+          "title": "Stove and air conditioning",
+          "body": "The living room has a wood-burning stove, and rooms have heating/cooling air conditioning. Ask your host for stove instructions."
+        },
+        "es": {
+          "title": "Stove and air conditioning",
+          "body": "The living room has a wood-burning stove, and rooms have heating/cooling air conditioning. Ask your host for stove instructions."
+        },
+        "fr": {
+          "title": "Stove and air conditioning",
+          "body": "The living room has a wood-burning stove, and rooms have heating/cooling air conditioning. Ask your host for stove instructions."
+        },
+        "de": {
+          "title": "Stove and air conditioning",
+          "body": "The living room has a wood-burning stove, and rooms have heating/cooling air conditioning. Ask your host for stove instructions."
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "equipment",
+      "icon": "book",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Guia dos equipamentos",
+          "body": "Cozinha com máquina de lavar loiça e roupa, frigorífico com congelador, forno, torradeira, iogurteira, máquina Nespresso e outros utensílios. A sala tem televisão e sistema de áudio Bluetooth."
+        },
+        "en": {
+          "title": "Appliances and equipment",
+          "body": "The kitchen includes dishwasher, washing machine, fridge-freezer, oven, toaster, yoghurt maker, Nespresso machine and utensils. The lounge has a TV and Bluetooth audio."
+        },
+        "es": {
+          "title": "Appliances and equipment",
+          "body": "The kitchen includes dishwasher, washing machine, fridge-freezer, oven, toaster, yoghurt maker, Nespresso machine and utensils. The lounge has a TV and Bluetooth audio."
+        },
+        "fr": {
+          "title": "Appliances and equipment",
+          "body": "The kitchen includes dishwasher, washing machine, fridge-freezer, oven, toaster, yoghurt maker, Nespresso machine and utensils. The lounge has a TV and Bluetooth audio."
+        },
+        "de": {
+          "title": "Appliances and equipment",
+          "body": "The kitchen includes dishwasher, washing machine, fridge-freezer, oven, toaster, yoghurt maker, Nespresso machine and utensils. The lounge has a TV and Bluetooth audio."
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "waste",
+      "icon": "recycle",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Lixo e reciclagem",
+          "body": "Separe resíduos sempre que possível. Confirme com a anfitriã a localização dos contentores mais próximos e as instruções de recolha."
+        },
+        "en": {
+          "title": "Waste and recycling",
+          "body": "Please separate recyclable waste where possible. Ask your host where to find nearby bins."
+        },
+        "es": {
+          "title": "Waste and recycling",
+          "body": "Please separate recyclable waste where possible. Ask your host where to find nearby bins."
+        },
+        "fr": {
+          "title": "Waste and recycling",
+          "body": "Please separate recyclable waste where possible. Ask your host where to find nearby bins."
+        },
+        "de": {
+          "title": "Waste and recycling",
+          "body": "Please separate recyclable waste where possible. Ask your host where to find nearby bins."
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "rules",
+      "icon": "info",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Regras da casa",
+          "body": "Respeite o sossego do bairro e cuide dos equipamentos e mobiliário. Consulte as regras específicas da sua reserva Airbnb."
+        },
+        "en": {
+          "title": "House rules",
+          "body": "Please respect the quiet neighbourhood and take care of the property. Refer to your Airbnb booking for any specific rules."
+        },
+        "es": {
+          "title": "House rules",
+          "body": "Please respect the quiet neighbourhood and take care of the property. Refer to your Airbnb booking for any specific rules."
+        },
+        "fr": {
+          "title": "House rules",
+          "body": "Please respect the quiet neighbourhood and take care of the property. Refer to your Airbnb booking for any specific rules."
+        },
+        "de": {
+          "title": "House rules",
+          "body": "Please respect the quiet neighbourhood and take care of the property. Refer to your Airbnb booking for any specific rules."
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    },
+    {
+      "id": "safety",
+      "icon": "shield",
+      "visible": true,
+      "translations": {
+        "pt": {
+          "title": "Segurança e emergências",
+          "body": "Em caso de emergência ligue 112. Confirme à chegada a localização dos equipamentos de segurança e das saídas."
+        },
+        "en": {
+          "title": "Safety and emergencies",
+          "body": "Call 112 in an emergency. On arrival, identify safety equipment and exits."
+        },
+        "es": {
+          "title": "Safety and emergencies",
+          "body": "Call 112 in an emergency. On arrival, identify safety equipment and exits."
+        },
+        "fr": {
+          "title": "Safety and emergencies",
+          "body": "Call 112 in an emergency. On arrival, identify safety equipment and exits."
+        },
+        "de": {
+          "title": "Safety and emergencies",
+          "body": "Call 112 in an emergency. On arrival, identify safety equipment and exits."
+        }
+      },
+      "buttonLabel": "",
+      "buttonUrl": "",
+      "phone": "",
+      "image": ""
+    }
+  ],
+  "equicampoMaps": "https://www.google.com/maps/search/?api=1&query=Mastro+do+Salto+Tavira",
+  "hostPhotos": [],
+  "hostLogo": "",
+  "hostPhone": "",
+  "hostWebsite": "https://www.airbnb.pt/rooms/1674456123499324884",
+  "hostEmail": "",
+  "directionsUrl": "https://www.google.com/maps/search/?api=1&query=Mastro+do+Salto+Tavira"
+}
