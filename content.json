@@ -22,14 +22,14 @@
       "experiencesBody": "Do barco para a Ilha de Tavira às salinas e às caminhadas junto à Ria Formosa, há muitas formas de viver o sotavento algarvio.",
       "rulesBody": "Cuide da casa e respeite a tranquilidade do bairro histórico. Antes de sair, desligue o ar condicionado e os equipamentos, feche as janelas e deixe os espaços arrumados. Para regras específicas, consulte a sua reserva na Airbnb.",
       "food": "Sabores do Algarve",
-      "equicampoOffer": "",
+      "equicampoOffer": "Aproveite 15% de desconto em todas as atividades da Mastro do Salto durante a sua estadia na Mastro do Salto.",
       "directionsBody": "A casa situa-se no centro histórico de Tavira, num bairro tranquilo. Utilize o mapa para localizar a zona.",
       "directionsButton": "Ver localização no mapa",
       "hostsBody": "O Mastro do Salto é apresentado pela Ana.",
       "foodBody": "Entre peixe fresco, polvo, cataplanas e doces regionais, descubra algumas sugestões de restaurantes em Tavira. Confirme os horários e reserve diretamente com cada estabelecimento.",
       "stayIntro": "Uma casa luminosa com três quartos, duas casas de banho, cozinha equipada, pátio com duche exterior e terraço no último piso. Consulte as informações práticas abaixo.",
       "contactHeading": "Contactar a anfitriã",
-      "contactIntro": "A Ana recebe os hóspedes do Mastro do Salto. Para esclarecer dúvidas ou combinar a chegada, utilize as mensagens da reserva na Airbnb.",
+      "contactIntro": "A Ana recebe os hóspedes do Mastro do Salto. Para esclarecer dúvidas ou combinar a chegada, utilize as mensagens da reserva no Airbnb.",
       "contactCall": "Ligar",
       "contactWhatsapp": "WhatsApp",
       "contactEmail": "Enviar e-mail",
@@ -803,7 +803,7 @@
       "translations": {
         "pt": {
           "title": "Check-in e Check-out",
-          "body": "Confirme antecipadamente com a anfitriã, através da reserva na Airbnb, os horários e as instruções de entrada."
+          "body": ""
         },
         "en": {
           "title": "Check-in and check-out",
@@ -830,11 +830,11 @@
     {
       "id": "parking",
       "icon": "car",
-      "visible": false,
+      "visible": true,
       "translations": {
         "pt": {
           "title": "Estacionamento",
-          "body": "O anúncio indica estacionamento gratuito na rua. Como a casa fica no centro histórico, confirme com a anfitriã onde é mais prático estacionar e descarregar malas."
+          "body": "Estacionamento gratuito na rua. "
         },
         "en": {
           "title": "Parking",
@@ -865,7 +865,7 @@
       "translations": {
         "pt": {
           "title": "Wi-Fi",
-          "body": "A casa dispõe de Wi-Fi. A rede e palavra-passe devem ser confirmadas com a anfitriã."
+          "body": ""
         },
         "en": {
           "title": "Wi-Fi",
@@ -896,7 +896,7 @@
       "translations": {
         "pt": {
           "title": "Salamandra e climatização",
-          "body": "A sala dispõe de salamandra e os compartimentos têm ar condicionado quente/frio. Peça instruções à anfitriã antes de utilizar a salamandra."
+          "body": "A sala dispõe de salamandra e os compartimentos têm ar condicionado quente/frio."
         },
         "en": {
           "title": "Stove and air conditioning",
