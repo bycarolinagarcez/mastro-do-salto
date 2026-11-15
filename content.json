@@ -157,7 +157,7 @@
   "places": [
     {
       "id": "tavira-1",
-      "image": "assets/places-tavira-1-1794770271312.jpg",
+      "image": "assets/places-tavira-1-1794771163831.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Castelo+de+Tavira%2C+Tavira",
       "translations": {
         "pt": {
@@ -596,7 +596,7 @@
   "activities": [
     {
       "id": "tavira-activity-1",
-      "image": "assets/activities-tavira-activity-1-1794770958575.jpg",
+      "image": "assets/activities-tavira-activity-1-1794771166544.jpg",
       "maps": "https://www.google.com/maps/search/?api=1&query=Cais+do+Ferry%2C+Tavira",
       "booking": "https://www.google.com/maps/search/?api=1&query=Cais+do+Ferry%2C+Tavira",
       "equicampo": false,
